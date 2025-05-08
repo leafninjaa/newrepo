@@ -1,0 +1,13 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "datetime_config" : {
+          "ntp" : {
+            "servers" : [ "time1.lvn.broadcom.net" ]
+          }
+        }
+      }
+    }
+  }
+}
