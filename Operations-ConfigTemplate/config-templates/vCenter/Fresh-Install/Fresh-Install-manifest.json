@@ -1,0 +1,7 @@
+{
+  "contentName": "Fresh-Install",
+  "id": "144541a7-69ea-4d37-a2d7-f5d5c163f3cb",
+  "contentType": "Operations-ConfigTemplate",
+  "keyValues": {"location": "vCenter%2FFresh-Install"},
+  "descendents": []
+}
