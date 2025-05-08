@@ -1,0 +1,23 @@
+{
+  "selectedConfig" : {
+    "config" : {
+      "vcenter" : {
+        "appliance" : {
+          "network" : {
+            "proxy_configuration" : [ {
+              "port" : 0,
+              "server" : "string",
+              "enabled" : false,
+              "password" : "string",
+              "protocol" : "HTTP",
+              "username" : "string"
+            } ]
+          }
+        }
+      }
+    }
+  },
+  "description" : "",
+  "sourceResourceId" : "e65b69bc-772a-4132-896a-e1dfc6c1fe79",
+  "configVersion" : "9.0.0.24678707"
+}

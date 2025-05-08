@@ -1,0 +1,26 @@
+{
+  "config" : {
+    "vcenter" : {
+      "appliance" : {
+        "network" : {
+          "proxy_configuration" : [ {
+            "port" : -1,
+            "server" : "",
+            "enabled" : false,
+            "protocol" : "HTTP"
+          }, {
+            "port" : -1,
+            "server" : "",
+            "enabled" : false,
+            "protocol" : "HTTPS"
+          }, {
+            "port" : -1,
+            "server" : "",
+            "enabled" : false,
+            "protocol" : "FTP"
+          } ]
+        }
+      }
+    }
+  }
+}
